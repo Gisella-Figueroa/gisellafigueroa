@@ -31,7 +31,7 @@
 #  - title: "Guide"
  #   url: /markdown/
  main:
-  - title: "Proyectos e Investigación" # Texto visible
+  - title: "Publicaciones" # Texto visible
     url: /publications/              # Ruta interna (no la cambies)
   - title: "Docencia"
     url: /teaching/
