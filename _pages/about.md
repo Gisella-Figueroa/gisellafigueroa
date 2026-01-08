@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
----permalink: /
+---
 
 Gisella Y. Figueroa Tejada es Docente Investigadora en la Facultad de Ingeniería de la Universidad San Ignacio de Loyola (USIL) en Lima, Perú. Su labor académica se especializa en Ingeniería Empresarial, Dinámica de Sistemas y la gestión estratégica de la Transformación Digital.
 
