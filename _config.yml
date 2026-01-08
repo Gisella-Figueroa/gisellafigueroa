@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Casual-foto.png"
+  avatar           : "images/Casual-foto.png"
   name             : "Gisella Figueroa Tejada"
   pronouns         : # example: "she/her"  
   bio              : "Sistemas Complejos, Simulación e IA"
