@@ -27,5 +27,3 @@ Gestión de la Innovación: Emprendimiento tecnológico, Transformación Digital
 Novedades
 
 Enero 2026: Lanzamiento del taller virtual "Ingeniería del Título" para tesistas de ingeniería.
-
-Próximamente: Publicación del libro "Ingeniería de la Tesis" en Amazon KDP.
