@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Sobre mí"
+excerpt: "Biografía Académica"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
----
+---permalink: /
 
 Gisella Y. Figueroa Tejada es Docente Investigadora en la Facultad de Ingeniería de la Universidad San Ignacio de Loyola (USIL) en Lima, Perú. Su labor académica se especializa en Ingeniería Empresarial, Dinámica de Sistemas y la gestión estratégica de la Transformación Digital.
 
