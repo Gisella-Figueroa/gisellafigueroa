@@ -14,7 +14,7 @@ Actualmente, se desempeña como Líder del Grupo de Investigación PERUTECH, don
 
 Defensora de la innovación pedagógica, Gisella integra activamente la Inteligencia Artificial Generativa y el Modelado Basado en Agentes (ABM) en el currículo de pregrado. Es creadora de la metodología "Ingeniería del Título", diseñada para acelerar la investigación formativa utilizando la IA como un "Exocórtex" para el análisis lógico. Su investigación actual explora cómo estas herramientas pueden democratizar el acceso al pensamiento sistémico complejo en economías emergentes, preparando a los estudiantes para un mercado laboral impulsado por la IA.
 
-Es autora del libro "Ingeniería de la Tesis: El método paso a paso" (2026) y participa activamente como ponente en conferencias internacionales sobre el futuro de la educación en ingeniería.
+Participa activamente como ponente en conferencias internacionales sobre el futuro de la educación en ingeniería.
 
 Intereses de Investigación
 
