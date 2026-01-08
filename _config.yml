@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Casual-foto.png"
   name             : "Gisella Figueroa Tejada"
   pronouns         : # example: "she/her"  
-  bio              : "**Sistemas Complejos**, **Simulación** e **IA**"
+  bio              : "Sistemas Complejos, Simulación e IA"
   location         : "Lima - PERU"
-  employer         : "Universidad San Ignacio de Loyola"
+  employer         : "USIL"
   uri              : # URL
   email            : "gfigueroa@usil.edu.pe" 
 
