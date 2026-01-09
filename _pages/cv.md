@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Estudios
+Education
 ======
 * Ph.D en Administración, Escuela de Posgrado de la Universidad San Ignacio de Loyola, 2021
 * M.S. en e-Business Management, International University of Japan, 2003
 * B.S. en Ingeniería de Sistemas y Cómputo, Universidad Inca Garcilaso de la Vega, 2000
 
-Experiencia Laboral
+Experience
 ======
 ** Universidad San Ignacio de Loyola (USIL)**
 Docente e Investigadora
@@ -31,7 +31,7 @@ Innovación Docente: Diseño e implementación del taller "Ingeniería del Títu
 
 Docencia: Cátedra en Sistemas Complejos, Simulación de Sistemas, Aplicaciones para Ingeniería Empresarial, Ingenieria de Procesos I y II, Arquitectura del Negocio, Gestión de Innovación y Mejora Continua, y jurado en Seminario de Tesis, introduciendo herramientas de simulación (ABM) y pensamiento sistémico.
   
-Habilidades
+Skills
 ======
 **Investigación:**
 `Diseño Experimental` `Bibliometría` `Matriz de Consistencia` `Redacción Técnica`
