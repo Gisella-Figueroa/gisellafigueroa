@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Educación
+Estudios
 ======
 * Ph.D en Administración, Escuela de Posgrado de la Universidad San Ignacio de Loyola, 2021
 * M.S. en e-Business Management, International University of Japan, 2003
@@ -49,7 +49,7 @@ Habilidades
 * **Español:** Nativo
 * **Inglés:** Avanzado (Profesional)
 
-Publicaciones
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
