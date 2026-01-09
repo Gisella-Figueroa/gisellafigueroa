@@ -67,6 +67,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and Leadership
+Service and leadership
 ======
 * Actualmente coordinadora del grupo de investigación PERUTECH
